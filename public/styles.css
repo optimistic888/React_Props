@@ -1,0 +1,11 @@
+.my-name {
+  color: rgb(13, 71, 52);
+}
+body {
+  margin: 0 auto;
+  padding: 25px;
+  max-width: 400px;
+  min-width: 400px;
+  background-color: rgb(235, 235, 222);
+  text-align: center;
+}
